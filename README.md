@@ -20,6 +20,6 @@ In short, our analysis consisted of multiple steps as follows:
 
 From this sequence, we can get recommended actions and numbers comparison on the current sales strategy and the strategy incurred using the Machine Learning model. The final model that's determined as the best model out of all try-outs is Random Forest with NearMiss resampler.
 <br>
-And if you'd like to read more about the result, I have made bullet points in this [PPT](https://drive.google.com/file/d/1jE-lABD5m-pGPP1GsdWQWbwtPuJHvOSz/view?usp=sharing) 😊
+And if you'd like to read more about the result, I have made bullet points in this [PPT](https://drive.google.com/file/d/1zydomKcK9ic3P47D-r5ulhSZW4zpU28L/view?usp=sharing) 😊
 <br>
 ## Thank you for reading until down here! 🎖
